@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AuthLock2</string>
+    <string name="com_auth0_client_id">hMt5XuiauEimMkMKcEL0Nhh7Va1fItU1</string>
+    <string name="com_auth0_domain">dev-4cwbertqh2l5si34.us.auth0.com</string>
+</resources>
